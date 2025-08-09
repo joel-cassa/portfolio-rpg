@@ -1,0 +1,25 @@
+{
+  "character": {
+    "name": "Satoru Joel",
+    "level": 4,
+    "type": "Cientista de Dados",
+    "avatarUrl": "/images/avatar.jpg",
+    "description": "Um ser focado em consumir dados e transformar problemas complexos em soluções através de Redes Neurais.",
+    "readme": "Olá! Sou um entusiasta da Ciência de Dados com background em Física. Minha paixão é usar Machine Learning para modelar sistemas complexos e extrair conhecimento valioso do universo."
+  },
+  "attributes": {
+    "labels": ["Programação", "Análise", "Visualização", "Machine Learning", "Lógica", "Física"],
+    "values": [85, 80, 70, 90, 95, 88]
+  },
+  "tools": [
+    { "name": "Python", "icon": "trophy" },
+    { "name": "SQL", "icon": "trophy" },
+    { "name": "Pandas", "icon": "trophy" },
+    { "name": "TensorFlow", "icon": "trophy" }
+  ],
+  "achievements": [
+    { "name": "Modelo Preditivo", "icon": "star" },
+    { "name": "Dashboard Interativo", "icon": "star" },
+    { "name": "Artigo Publicado", "icon": "star" }
+  ]
+}
